@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @Lee-dain-star
+- 👋 Hi, I’m @dainee96
 
 - 👀 My major is convergence software.
 
-- 🌱 I’m currently learning Artificial intelligence, deep learning.
+- 🌱 I’m currently researching Artificial intelligence/deep learning.
 
-- 💞️ I am a master's course and I do research in the NLP lab.
+- 💞️ I'm a master's course in the Hallym NLP lab.
 
-- 📫 contact :  dainee96@gmail.com
+- 📫 contact : dainee96@gmail.com
 
 <!---
 Lee-dain-star/Lee-dain-star is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
